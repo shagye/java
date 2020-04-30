@@ -8,3 +8,5 @@ ___________________________________________________________________
 
 
 >>>>True or False If tree structure is/is not binary search tree
+
+![Screenshot](https://hizliresim.com/Djdw3d)
